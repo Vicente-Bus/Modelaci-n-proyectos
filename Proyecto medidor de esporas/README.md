@@ -1,5 +1,6 @@
 ### Separador de Esporas
 Permite la separación y posterior estimación de esporas en el medio evaluado en base al uso de una superficie adhesiva, la cual se ubica dentro de capsulas, captando de esta forma las esporas dentro del flujo de aire introducido en estas. Dicho flujo de aire se establecerá con el uso de un ventilador ubicado al final del sistema, y atravesará al menos 4 capsulas distintas para así lograr una captura óptima de las partículas.![Capsula]("C:\Users\vicho\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-01-13 114744.png")
+
 ##Componentes del proyecto
 - Anillo: Soporte para la superficie adhesiva utilizada, esta ubicandose en el centro de la capsula. ![Anillo]("C:\Users\vicho\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-01-13 111607.png")
 - Capsula 1: Primera mitad de la capsula utilizada. Comprende el punto de entrada del aire, ademas contiene puntos de union con el anillo. ![1era Mitad]("C:\Users\vicho\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-01-13 111402.png")
