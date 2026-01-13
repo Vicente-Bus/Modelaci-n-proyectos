@@ -3,7 +3,7 @@ Permite la separación y posterior estimación de esporas en el medio evaluado e
 
 ### Componentes del proyecto
 - Anillo: Soporte para la superficie adhesiva utilizada, esta ubicandose en el centro de la capsula. ![Anillo](Imagenes proyecto/Captura de pantalla 2026-01-13 111607.png)
-- Capsula 1: Primera mitad de la capsula utilizada. Comprende el punto de entrada del aire, ademas contiene puntos de union con el anillo. ![1era Mitad]()
+- Capsula 1: Primera mitad de la capsula utilizada. Comprende el punto de entrada del aire, ademas contiene puntos de union con el anillo. ![1era Mitad](Imagenes proyecto/1era mitad.png)
 - Capsula 2: Segunda mitad de la capsula. Comprende el punto de salida del aire, ademas de contar con el la estructura de union para las dos mitades (solapado). ![2da Mitad]("C:\Users\vicho\OneDrive\Documentos\MODELACION PROYECTOS\Imagenes proyecto\Captura de pantalla 2026-01-13 111455.png")
 - Tapa: Tapa ubicada en la boca de cada capsula, se encarga principalmente de captar el aire, contando con varios orificios en su superficie con la finalidad de aumentar la velocidad del flujo de aire. Además se encarga de unir las capuslas entre sí.![Tapa]("C:\Users\vicho\OneDrive\Documentos\MODELACION PROYECTOS\Imagenes proyecto\Captura de pantalla 2026-01-13 111637.png")
 - Cesto: Tapa o base estructural del cesto que sostendrá todo el sistema. ![Base Cesto]("C:\Users\vicho\OneDrive\Documentos\MODELACION PROYECTOS\Imagenes proyecto\Captura de pantalla 2026-01-13 111842.png")
